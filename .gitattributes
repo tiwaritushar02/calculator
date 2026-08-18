@@ -1,12 +1,15 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-# Auto detect text files and perform LF normalization
+# Auto detect text files
 * text=auto
 
-# Detect C++ source/header files correctly
+# C++ source and header files
 *.cpp linguist-language=C++
 *.h linguist-language=C++
+
+# Qt Designer UI files
 *.ui linguist-language=XML
 
-# Ignore generated/build files from language statistics
+# Ignore generated build files
 build/ linguist-generated
+CMakeFiles/ linguist-generated
+*.cmake linguist-generated
+Makefile linguist-generated
