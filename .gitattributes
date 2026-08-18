@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Detect C++ source/header files correctly
+*.cpp linguist-language=C++
+*.h linguist-language=C++
+*.ui linguist-language=XML
+
+# Ignore generated/build files from language statistics
+build/ linguist-generated
