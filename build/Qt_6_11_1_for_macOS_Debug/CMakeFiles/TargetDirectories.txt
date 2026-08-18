@@ -1,0 +1,9 @@
+/Users/tushartiwari565/calculator/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/calculator.dir
+/Users/tushartiwari565/calculator/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/edit_cache.dir
+/Users/tushartiwari565/calculator/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/rebuild_cache.dir
+/Users/tushartiwari565/calculator/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/list_install_components.dir
+/Users/tushartiwari565/calculator/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/install.dir
+/Users/tushartiwari565/calculator/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/install/local.dir
+/Users/tushartiwari565/calculator/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/install/strip.dir
+/Users/tushartiwari565/calculator/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/calculator_autogen_timestamp_deps.dir
+/Users/tushartiwari565/calculator/build/Qt_6_11_1_for_macOS_Debug/CMakeFiles/calculator_autogen.dir
